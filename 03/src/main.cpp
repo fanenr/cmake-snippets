@@ -9,10 +9,11 @@
 #include <h/h.hpp>
 #include <s/s.hpp>
 
-int main()
+int
+main ()
 {
-    print();
-    s();
-    d();
-    h();
+  print ();
+  s ();
+  d ();
+  h ();
 }

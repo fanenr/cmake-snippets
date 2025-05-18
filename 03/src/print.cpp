@@ -1,7 +1,8 @@
 #include <03/print.hpp>
 #include <iostream>
 
-void print()
+void
+print ()
 {
-    std::cout << "print\n";
+  std::cout << "print\n";
 }

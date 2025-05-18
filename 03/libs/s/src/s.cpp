@@ -1,7 +1,8 @@
 #include <s/s.hpp>
 #include <iostream>
 
-void s()
+void
+s ()
 {
-    std::cout << "libs\n";
+  std::cout << "libs\n";
 }

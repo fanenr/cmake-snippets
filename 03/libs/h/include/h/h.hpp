@@ -1,7 +1,8 @@
 #pragma once
 #include <iostream>
 
-static void h()
+static void
+h ()
 {
-    std::cout << "libh\n";    
+  std::cout << "libh\n";
 }

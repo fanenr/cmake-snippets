@@ -1,7 +1,8 @@
 #include <d/d.hpp>
 #include <iostream>
 
-void d()
+void
+d ()
 {
-    std::cout << "libd\n";
+  std::cout << "libd\n";
 }
