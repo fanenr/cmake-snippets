@@ -1,5 +1,5 @@
-#include <s/s.hpp>
 #include <iostream>
+#include <s/s.hpp>
 
 void
 s ()
